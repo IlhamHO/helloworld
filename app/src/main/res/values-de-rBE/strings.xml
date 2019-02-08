@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Helllo World</string>
+    <string name="txt_tv_title">Hallo Welt</string>
+    <string name="txt_btn_counter">Erhöhen</string>
+    <string name="txt_btn_decrease">Reduzieren</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Helllo World</string>
+    <string name="txt_tv_title">Hello World</string>
+    <string name="txt_btn_counter">Increase</string>
+    <string name="txt_btn_decrease">Decrease</string>
+
+</resources>
